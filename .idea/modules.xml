@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IndexableRecyclerView-master.iml" filepath="$PROJECT_DIR$/IndexableRecyclerView-master.iml" group="IndexableRecyclerView-master" />
+      <module fileurl="file://$PROJECT_DIR$/indexablerecyclerview/indexablerecyclerview.iml" filepath="$PROJECT_DIR$/indexablerecyclerview/indexablerecyclerview.iml" group="IndexableRecyclerView-master/indexablerecyclerview" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" group="IndexableRecyclerView-master/sample" />
+    </modules>
+  </component>
+</project>
