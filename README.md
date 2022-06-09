@@ -6,6 +6,20 @@ IndexableRecyclerView 库的androidx版本
 
 #### 软件架构
 替代之前的IndexableStickyListView,进行大幅度重构，性能优化，更易使用的API，更易拓展的HeaderView/FooterView等等！
+#### 引入
+
+```
+ repositories {
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+    }
+```
+
+```
+implementation 'com.gitee.androidx_xy:IndexableRecyclerViewX:1.1'
+```
+
+[快速访问 in China](https://gitee.com/androidx_xy/IndexableRecyclerViewX)
 
 #### XML
 
