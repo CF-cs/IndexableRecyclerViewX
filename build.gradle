@@ -28,7 +28,9 @@ allprojects {
         maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
     }
 }
-
+configurations.all {
+    resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
+}
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
